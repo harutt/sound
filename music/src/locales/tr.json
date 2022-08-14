@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "Sound'a hoş geldiniz"
+  },
+  "song": {
+    "comment_count": "Henüz yorum yapılmamış | 1 yorum | {count} yorum"
+  },
+  "register": {
+    "accept": "Sound uygulamasının {0}",
+    "tos": "Kullanım Koşulları"
+  },
+  "manage": {
+    "my_songs": "Şarkılarım"
+  }
+}
